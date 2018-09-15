@@ -1,4 +1,4 @@
-# Rio2016_PrevisaoFinalistas
+# Rio 2016 - Previsão de finalistas no Tiro com Arco Masculino
 Previsão de finalistas no Tiro com Arco nos Jogos Olímpicos Rio 2016.
 
 Aplicações:
