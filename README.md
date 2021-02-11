@@ -6,7 +6,7 @@ Aplicações:
 - Modelagem.
 - Agrupamentos com K-means.
 - Previsão de finalistas com K-Nearest Neighbors (KNN).
-- Previsão de finalistas com Regressão Logística.
+- Score para finalistas com Regressão Logística.
 
 Ferramentas utilizadas:
 - Tableau 10.
